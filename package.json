@@ -15,7 +15,7 @@
     "apollo-link-http": "1.5.9",
     "graphql": "14.0.2",
     "graphql-tag": "2.10.0",
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "moment": "^2.22.2",
     "react": "16.6.3",
     "react-apollo": "2.3.3",
